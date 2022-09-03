@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/TeamVirtual-Skyz/denara-V2/blob/v7.1/image/lol.jpg" alt="Team Virtual" width="100"/>
+<img src="https://github.com/TeamVirtual-Skyz/denara-V2/blob/v7.1/image/lol_1.jpg" alt="Team Virtual" width="100"/>
 
 
 </p>
