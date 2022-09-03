@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Team Virtual" //namabot kalian
+global.botname = "PutraSkyz" //namabot kalian
 global.ownername= "putra skyz" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/DenaraBot" //bebas asal jan hapus
@@ -42,7 +42,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/3870ad0740f8c21be26ab.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/487c8044c22bd0805cbe5.mp4'
-global.packname = 'Team Virtual' //sticker wm ubah
+global.packname = 'PutraSkyz' //sticker wm ubah
 global.author = 'Di Buat Oleh PutraSkyz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
